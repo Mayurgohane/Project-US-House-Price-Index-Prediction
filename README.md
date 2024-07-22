@@ -3,7 +3,12 @@
 # Live demo- https://deployment-using-render-us-home-price.onrender.com
 
 ## Summary
-This project predicts the US House Price Index (HPI) using economic indicators from the Federal Reserve Economic Data (FRED) database. Ridge and Lasso regression models were used, showing high predictive accuracy
+This project aims to predict the US House Price Index (HPI) using various economic indicators
+from the Federal Reserve Economic Data (FRED) database. The analysis spans from January 2004
+to January 2024, employing Ridge and Lasso regression techniques to understand the relationship
+between house prices and economic variables. The models demonstrated strong predictive
+capabilities, with high R-squared values and low RMSE, indicating their effectiveness in
+forecasting house prices. 
 
 ## Data Collection
 Data was sourced from Federal Reserve Economic Data (FRED) database, covering:
