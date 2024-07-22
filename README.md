@@ -48,5 +48,9 @@ Data was sourced from Federal Reserve Economic Data (FRED) database, covering:
 - **Consumer Confidence**: Higher confidence slightly lowers house prices.
 
 ## Conclusion
-The models effectively predict house prices using economic indicators, providing valuable stakeholder insights.
-
+The Ridge and Lasso regression models demonstrated strong predictive capabilities for the US
+House Price Index using selected economic indicators. Both models achieved high R-squared
+values and low RMSE values, indicating their effectiveness. The analysis of coefficients provided
+insights into the impact of each feature on house prices. The project highlights the importance of
+economic indicators in predicting housing market trends and provides a robust framework for
+future analyses and model improvements.
