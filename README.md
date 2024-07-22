@@ -1,6 +1,8 @@
 # Project-US-House-Price-Prediction-2004-2024
 
+
 # You can view the live demo here- https://deployment-using-render-us-home-price.onrender.com
+
 
 ## Summary
 This project predicts the US House Price Index (HPI) using economic indicators from the FRED database (2004-2024). Ridge and Lasso regression models were used, showing high predictive accuracy with R-squared values over 0.97 and RMSE around 8.7.
