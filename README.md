@@ -41,10 +41,5 @@ Data was sourced from Federal Reserve Economic Data (FRED) database, covering:
 - **Consumer Confidence**: Higher confidence slightly lowers house prices.
 
 ## Conclusion
-The models effectively predict house prices using economic indicators, providing valuable insights for stakeholders.
+The models effectively predict house prices using economic indicators, providing valuable stakeholder insights.
 
-## Installation and Usage
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
-   cd house-price-prediction
