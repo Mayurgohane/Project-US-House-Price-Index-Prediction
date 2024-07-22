@@ -1,5 +1,4 @@
-# Project-US House Price Index Prediction (2004-2024)
-
+# Project-US House Price Index Prediction
 
 # You can view the live demo here- https://deployment-using-render-us-home-price.onrender.com
 
